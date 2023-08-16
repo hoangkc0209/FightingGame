@@ -1,0 +1,10 @@
+﻿  Fighter.cpp
+C:\Users\han.glschool\Desktop\HoangCuong\TrainingFramework_2\SDL\src\GameObject\Fighter.cpp(117,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\han.glschool\Desktop\HoangCuong\TrainingFramework_2\SDL\src\GameObject\Fighter.cpp(121,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  2 of 2080 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDL.vcxproj -> C:\Users\han.glschool\Desktop\HoangCuong\TrainingFramework_2\x64\Release\SDL.exe
+  0 File(s) copied

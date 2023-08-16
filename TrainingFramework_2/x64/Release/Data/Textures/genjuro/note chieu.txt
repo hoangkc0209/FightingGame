@@ -1,0 +1,17 @@
+IDLE
+CHEM CO BAN = T
+CHEM CAO = T+W
+CHEM THAP = T+S
+NHAY CHEM = T+W+D
+CHEM TU DUOI = T+S+D
+DA CAO = Y+W
+DA THAP = Y+S
+DEFEND = S
+JUMP = W
+
+A= 0
+W= 1
+D= 2
+S= 3
+T= 4
+Y= 5
